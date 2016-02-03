@@ -1,5 +1,5 @@
 echo "OpenVAS Scanner Install Script on debian.."
-echo "Code by Hahwul / www.codeblack.net"
+echo "Code by Hahwul / www.hahwul.com
 echo "\n"
 echo "Install Path"
 echo "Ex) path : /opt/openvas/"
